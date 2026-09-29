@@ -1,0 +1,4 @@
+Masukkan gambar background Anda di folder ini.
+Nama berkas: background.png atau background.jpg atau background.jpeg atau background.webp.
+Rasio gambar yang disarankan untuk IFP landscape: 16:9 (contoh 1920 x 1080 piksel).
+Setelah menambahkan gambar, muat ulang index.html di browser.
